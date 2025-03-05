@@ -21,7 +21,7 @@
 	<PropertyGroup>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<ApplicationIcon />
-		<StartupObject />
+		<StartupObject>Shard.MyApplication.Application</StartupObject>
 	</PropertyGroup>
 
 	<ItemGroup>
